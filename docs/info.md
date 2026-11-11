@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+La imagen rebota y va cambiando de colores cada cierto tiempo.
 
 ## How to test
 
-Explain how to use your project
+Ejecuta el programa y disfruta :)
 
 ## External hardware
 
