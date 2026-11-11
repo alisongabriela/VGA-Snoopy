@@ -13,8 +13,8 @@ module tt_um_alisongabriela_snoopy (
     output wire [7:0] uio_oe,
     input wire ena, clk, rst_n
 );
-  localparam integer LOGO_WIDTH = 320;
-  localparam integer LOGO_HEIGHT = 240;
+  localparam integer LOGO_WIDTH = 180;
+  localparam integer LOGO_HEIGHT = 180;
   localparam integer MAX_X = DISPLAY_WIDTH - LOGO_WIDTH;
   localparam integer MAX_Y = DISPLAY_HEIGHT - LOGO_HEIGHT;
   wire hsync, vsync, video_active;
